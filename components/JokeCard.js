@@ -46,7 +46,7 @@ export default function JokeCard() {
         {likesJokes !== null && (
           <p>
             {likesJokes
-              ? "What do nosy peppers do? They get JALAPENO business! :D"
+              ? "What do nosy peppers do? They get JALAPENO business! :D Alright, see ya!"
               : "Okay fine. Goodbye :("}
           </p>
         )}
